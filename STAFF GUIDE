@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Guía del Staff</title>
+<link href="https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap" rel="stylesheet"> <!-- Importar Fjalla One -->
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4; /* Color de fondo del cuerpo */
+  }
+  .encabezado {
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 24px;
+    color: #333333; /* Color del texto del encabezamiento */
+  }
+  .titulo {
+    text-align: center;
+    margin-top: 10px;
+    font-size: 36px;
+    color: #007bff; /* Color del texto del título */
+  }
+  .cuadro {
+    border: 2px solid #000000; /* Borde negro */
+    border-radius: 15px; /* Bordes suavizados */
+    padding: 20px;
+    text-align: center;
+    margin: 20px auto;
+    width: 50%; /* Ancho del cuadro */
+    background-color: #ffffff; /* Color de fondo del cuadro */
+    color: #555555; /* Color del texto dentro del cuadro */
+    font-family: 'Fjalla One', sans-serif; /* Aplicar Fjalla One al texto del cuadro */
+  }
+</style>
+</head>
+<body>
+  <div class="encabezado">Staff Guide</div>
+  <h1 class="titulo">Texas Rp Staff Guide</h1>
+  <div class="cuadro">Hello</div>
+</body>
+</html>
